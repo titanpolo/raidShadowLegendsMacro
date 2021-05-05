@@ -1,5 +1,5 @@
 # raidShadowlegendsMacro
-auto restart macro for Raid Shadow Legends
+Auto restart macro for Raid Shadow Legends
 1. Download and install AutoHotkey software
 2. Execute Shadow Legends Client
 3. Execute macro as administrator
